@@ -4,3 +4,4 @@ Urllib
 Collections
 BeautifulSoup
 Pandas
+numpy
