@@ -7,7 +7,7 @@ import pandas as pd
 
 original_url = input("Enter the website url: ") 
 
-unscraped = deque([original_url])  
+unscraped = deque([original_url])
 
 scraped = set()  
 
