@@ -10,7 +10,7 @@ original_url = input("Enter the website url: ")
 unscraped = deque([original_url])
   
 scraped = set()  
-
+                                            
 emails = set()  
 
 while len(unscraped):
