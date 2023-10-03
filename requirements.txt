@@ -2,6 +2,6 @@ Re
 Requests
 Urllib
 Collections
-BeautifulSoup
+BeautifulSoup 
 Pandas
 numpy
